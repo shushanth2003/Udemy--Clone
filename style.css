@@ -3,6 +3,8 @@ body{
     padding:0;
     font-family: "Poppins", sans-serif;
     width:100vw;
+    margin-left:10px;
+    margin-right: 10px;
     overflow-x: hidden;
     box-sizing: border-box;
 }
@@ -147,8 +149,8 @@ position: relative;
     padding-bottom: 5px;
 }
 .image2 img{
-    height:180px;
-    width:150px;
+    height:200px;
+    width:200px;
 }
 .course1{
     display:grid;
