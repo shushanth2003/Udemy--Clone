@@ -102,8 +102,6 @@ position: relative;
 }
 .image img{
     width:100vw;
-    height: 150px;
-    object-fit: cover;
 }
 .offer{
     border:1px solid;
@@ -129,6 +127,10 @@ position: relative;
 .container3{
     margin-top: 60px;
     position:relative;
+}
+.image img{
+    height: 150px;
+    object-fit: cover;
 }
 .offer{
     position:absolute;
